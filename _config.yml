@@ -93,7 +93,7 @@ analytics:
 # Site Author
 author:
   name: "Jun Seok Lee"
-  avatar: "" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/_images/photo-myself-1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Data Science Portfolio"
   location: "Korea"
   email: "Hersheypq@gmail.com"
