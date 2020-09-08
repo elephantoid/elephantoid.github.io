@@ -3,7 +3,7 @@ title: "Machine Learning Project: Perceptron"
 date: 2020-09-08
 tages: [machine learning, data science]
 header:
-    image: "/_images/sarah-dokowicz-nAme0YH7hdU-unsplash.jpg"
+  image: "/assets/images/hudson-hintze-SXSYjCgUo9Y-unsplash.jpg"
 excerpt: "Machine Learning, Perceptron"
 ---
 
@@ -13,26 +13,30 @@ excerpt: "Machine Learning, Perceptron"
 
 ### H3 Heading
 
-
 Herr's some basic text.
 
-And here's some *italics*
+And here's some _italics_
 
 Here's some **blod**
 
 What about a [link](https://github.com/elephantoid)?
 
 Here's a bulleted list:
-* First item
-+ Second item
+
+- First item
+
+* Second item
+
 - Third item
 
 Here's a numbered list:
+
 1. First
 2. Second
 3. Third
 
 Python code block:
+
 ```python
     import numpy as np
 
@@ -42,6 +46,7 @@ Python code block:
 ```
 
 R code block:
+
 ```r
 library(tidyverse)
 df <- read_csv("some_file.csv")
