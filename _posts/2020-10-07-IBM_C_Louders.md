@@ -1,6 +1,7 @@
 ---
 title: "Become a IBM Clouders"
 date: 2020-10-07
+pemalink: /clouders/
 tages: [IBM, Cloud computing, IBM Clouders]
 header:
   image: "/assets/images/IBM.jpeg"
