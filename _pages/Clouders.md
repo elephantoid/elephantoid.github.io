@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: page
 pemalink: /clouders/
 title: "IBM Clouders Posts"
 author_profile: true
