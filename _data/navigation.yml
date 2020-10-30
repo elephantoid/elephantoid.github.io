@@ -2,12 +2,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Learning"
-    url: /learning/
-  - title: "C louders"
-    url: /clouders/
-  - title: "Issues"
-    url: /issues/
+  #- title: "Learning"
+    #url: /learning/
+  #- title: "C louders"
+    #url: /clouders/
+  #- title: "Issues"
+    #url: /issues/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
