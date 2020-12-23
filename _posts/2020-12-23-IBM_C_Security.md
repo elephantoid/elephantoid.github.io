@@ -1,6 +1,6 @@
 ---
 title: "IBM Cloud Secrets Manager 생성하기"
-date: 2020-11-02
+date: 2020-12-23
 tages: [security, cloud, IBM]
 header:
   #image: "/assets/images/dacon_소설.PNG"
